@@ -1,0 +1,10 @@
+data/
+runs/
+*.pt
+*.onnx
+*.onnx.data
+model.json
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+kaggle.json

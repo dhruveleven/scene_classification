@@ -1,0 +1,13 @@
+# Laptop: CPU smoke tests only
+train_dir: data/seg_train/seg_train
+test_dir: data/seg_test/seg_test
+pretrained: true
+img_size: 160
+batch_size: 16
+epochs: 1
+lr: 0.0003
+val_frac: 0.15
+freeze_epochs: 1
+num_workers: 0
+seed: 42
+out_dir: runs/local

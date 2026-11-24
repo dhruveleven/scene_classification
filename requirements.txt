@@ -1,0 +1,9 @@
+torch
+torchvision
+pyyaml
+scikit-learn
+onnx
+onnxscript
+onnxruntime
+pillow
+kaggle
