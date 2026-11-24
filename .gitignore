@@ -8,3 +8,4 @@ model.json
 __pycache__/
 .ipynb_checkpoints/
 kaggle.json
+kaggle_out/
